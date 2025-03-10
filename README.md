@@ -1,5 +1,17 @@
-# Vue 3 + Vite
+# Black Square
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Страница с чёрным квадратом. Просто и ясно.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+### Как локально развернуть проект?
+
+1. Склонируйте репозиторий, после чего в папке с проектом установите зависимости:
+
+```sh
+npm install
+```
+
+2. После установки зависимостей запустите проект и перейдите по ссылке из консоли:
+
+```sh
+npm run dev
+```
